@@ -1,7 +1,6 @@
 {
   "name": "reddit-fun",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "dependencies": {
     "angular": "^1.5.5",
     "angular-ui-router": "^0.2.18"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaac-ba/rereddit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isaac-ba/rereddit/issues"
+  },
+  "homepage": "https://github.com/isaac-ba/rereddit#readme",
+  "description": ""
 }
